@@ -1,0 +1,6 @@
+d:\asnaviram\embedded-c\my-workspace\target\clockmeter\lvgl\src\misc\lv_color.h:603:26:lv_color_make	16	static
+d:\asnaviram\embedded-c\my-workspace\target\clockmeter\lvgl\src\misc\lv_color.h:703:26:lv_color_black	8	static
+d:\asnaviram\embedded-c\my-workspace\target\clockmeter\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+D:/Asnaviram/Embedded-c/My-workspace/target/ClockMeter/lvgl/src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../Core/Src/rgb_mixer.c:6:13:set_value	16	static
+../Core/Src/rgb_mixer.c:12:6:rgb_mixer_create_ui	40	static
